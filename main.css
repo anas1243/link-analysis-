@@ -1,0 +1,30 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+background: #a0a0a0;
+}
+#wrapper {
+	/* Center wrapper perfectly */
+	width: 600px;
+	height: 800px;
+	margin: 50px auto;
+	display: block;
+	background: #fff;
+	border-radius:30px;
+	padding: 50px;
+	font-size: 18px;
+	color: #ff5407;
+}
+
+button{
+	border-radius:30px;
+  font-size: 18px;
+  background:transparent;
+  padding:20px;
+  margin-top:50px;
+  background:#a0a0a0;
+  color:#fff;
+  float : center;
+}
